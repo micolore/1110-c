@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include "header.h"
+/*
+  own header compiler header
+  
+  #include <file>
+  
+*/
+int x ;
+
+int main(){
+
+  puts(test());
+
+  return 0;
+}
